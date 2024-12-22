@@ -1,0 +1,36 @@
+Shared libraries compiled to be ________________ code
+
+a.
+Problem-independent code
+
+
+b.
+None of the  mentioned
+
+c.
+position-independent code
+
+
+d.
+Process-independent code
+
+
+
+______________  is IPC mechanism which sends  the event information from one process to another process
+
+a.
+Signal
+
+
+b.
+Shared Memory
+
+
+c.
+Message Queue
+
+
+d.
+Socket
+
+LD_LIBRARY_PATH
